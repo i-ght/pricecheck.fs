@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "1 Gallon Whole Milk",
+      "sources": [
+        {
+          "store": "Publix",
+          "datatype": "specific_product",
+          "productId": 324942
+        }
+      ]
+    }
+  ]
+}

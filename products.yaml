@@ -1,0 +1,5 @@
+products:
+  - name: "pasta sauce"
+    sources:
+      - datatype: "search"
+        search_terms: "pasta sauce"
